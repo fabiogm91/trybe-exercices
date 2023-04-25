@@ -1,2 +1,3 @@
-# trybe-exercices
-exercicios do curso
+# meu repositorio de exercícios
+#exercicios do curso trybe
+ 
